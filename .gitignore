@@ -1,6 +1,11 @@
-__pycache__/
-*.pyc
-.pytest_cache/
-/tmp-opencode/
-*.tmp
 *.bak
+*.pyc
+*.tmp
+.env
+.env.*
+.pytest_cache/
+.venv/
+/tmp-opencode/
+__pycache__/
+dist/*.tmp
+node_modules/
