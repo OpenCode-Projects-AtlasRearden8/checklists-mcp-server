@@ -1,0 +1,43 @@
+{
+  "name": "Travel",
+  "slug": "travel",
+  "description": "Packing and prep for any trip.",
+  "items": [
+    {
+      "title": "Book transportation and lodging",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Check id/passport not expired",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Charge devices, pack cables",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Medications and first aid",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Stop mail, water plants, pet plan",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Snacks and refillable water bottle",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Leave-home final sweep (stove, locks, lights)",
+      "done": false,
+      "note": ""
+    }
+  ],
+  "history": []
+}
