@@ -1,0 +1,43 @@
+{
+  "name": "Deep Clean",
+  "slug": "deep-clean",
+  "description": "Low-energy friendly deep-clean loop for one room at a time.",
+  "items": [
+    {
+      "title": "Gather supplies in one basket",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Set a 20-minute timer; smallest surface first",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Windows and mirrors",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Dust high to low",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Vacuum or mop floors last",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Take out trash and reset supplies",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Note anything to fix later",
+      "done": false,
+      "note": ""
+    }
+  ],
+  "history": []
+}

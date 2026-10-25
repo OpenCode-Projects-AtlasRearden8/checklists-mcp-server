@@ -1,0 +1,43 @@
+{
+  "name": "Launch Day",
+  "slug": "launch-day",
+  "description": "Checklist for launch day of a product, book, or site.",
+  "items": [
+    {
+      "title": "Confirm launch date and time are locked",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Final proofread of all public copy",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Test purchase/checkout path end to end",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Announcement drafted (email + social)",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Support/friction fallback plan ready",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Analytics and tracking verified",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Rest the night before",
+      "done": false,
+      "note": ""
+    }
+  ],
+  "history": []
+}

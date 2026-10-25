@@ -1,0 +1,53 @@
+{
+  "name": "Book Publishing (KDP)",
+  "slug": "book-publishing-kdp",
+  "description": "Self-publishing-ready checklist for a print/Kindle book.",
+  "items": [
+    {
+      "title": "Manuscript final pass (spelling, names, facts)",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Front/back matter complete (title page, copyright, index)",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Cover meets final trim size and DPI",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Interior PDF and EPUB rendered and checked",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Blurb, categories, and 7 keywords drafted",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Print and ebook pricing set",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Previewer checked on phone, tablet, and print",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "ISBN/copyright line verified",
+      "done": false,
+      "note": ""
+    },
+    {
+      "title": "Publish, then order a physical proof",
+      "done": false,
+      "note": ""
+    }
+  ],
+  "history": []
+}
